@@ -1,0 +1,12 @@
+# Private Hameln exports must never be committed.
+# Keep only the empty-directory placeholder under raw/.
+raw/*
+!raw/.gitkeep
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local editor / OS files
+.DS_Store
+Thumbs.db
