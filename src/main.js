@@ -261,9 +261,12 @@ async function init() {
     render();
     try { setupScrollReveal(); } catch (e) { /* non-essential */ }
     try { setupNavScrollSpy(); } catch (e) { /* non-essential */ }
-    $("status").textContent = `${data.length}か月分のHTMLを読み込みました。`;
+    const latest = state.months.at(-1);
+    $("last-updated").textContent = latest ? `最終更新：${latest.year}年${latest.month}月` : "";
+    $("status").hidden = true;
   } catch (error) {
     console.error("読書データの読み込みに失敗しました", error);
+    $("status").hidden = false;
     $("status").classList.add("error");
     $("status").textContent = `読書データを読み込めませんでした: ${error.message}。Webサーバー経由で開いているか、data/reading_data.json の内容を確認してください。`;
   }
