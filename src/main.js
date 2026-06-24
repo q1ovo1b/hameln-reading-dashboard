@@ -261,8 +261,6 @@ async function init() {
     render();
     try { setupScrollReveal(); } catch (e) { /* non-essential */ }
     try { setupNavScrollSpy(); } catch (e) { /* non-essential */ }
-    const latest = state.months.at(-1);
-    $("last-updated").textContent = latest ? `最終更新：${latest.year}年${latest.month}月` : "";
     $("status").hidden = true;
   } catch (error) {
     console.error("読書データの読み込みに失敗しました", error);
