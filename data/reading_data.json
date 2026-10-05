@@ -15664,5 +15664,646 @@
         "chars": 193543
       }
     ]
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "sourceFile": "2026-09.html",
+    "monthly": {
+      "works": 59,
+      "episodes": 1165,
+      "chars": 4566479
+    },
+    "cumulative": {
+      "works": 1121,
+      "episodes": 16678,
+      "chars": 87963339
+    },
+    "originals": [
+      {
+        "name": "ファンタジー / 冒険・バトル",
+        "url": "https://syosetu.org/search/?mode=search&word=%E8%88%9E%E5%8F%B0%EF%BC%9A%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC",
+        "chars": 919724
+      },
+      {
+        "name": "ファンタジー / 恋愛",
+        "url": "https://syosetu.org/search/?mode=search&word=%E8%88%9E%E5%8F%B0%EF%BC%9A%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC",
+        "chars": 546377
+      },
+      {
+        "name": "りゅうおうのおしごと！",
+        "url": "https://syosetu.org/search/?mode=search&word=%E5%8E%9F%E4%BD%9C%EF%BC%9A%E3%82%8A%E3%82%85%E3%81%86%E3%81%8A%E3%81%86%E3%81%AE%E3%81%8A%E3%81%97%E3%81%94%E3%81%A8%EF%BC%81",
+        "chars": 445863
+      },
+      {
+        "name": "ハイキュー!!",
+        "url": "https://syosetu.org/search/?mode=search&word=%E5%8E%9F%E4%BD%9C%EF%BC%9A%E3%83%8F%E3%82%A4%E3%82%AD%E3%83%A5%E3%83%BC%21%21",
+        "chars": 383723
+      },
+      {
+        "name": "ONE PIECE",
+        "url": "https://syosetu.org/search/?mode=search&word=%E5%8E%9F%E4%BD%9C%EF%BC%9AONE%20PIECE",
+        "chars": 335378
+      },
+      {
+        "name": "現代 / 恋愛",
+        "url": "https://syosetu.org/search/?mode=search&word=%E8%88%9E%E5%8F%B0%EF%BC%9A%E7%8F%BE%E4%BB%A3",
+        "chars": 238061
+      },
+      {
+        "name": "ようこそ実力至上主義の教室へ",
+        "url": "https://syosetu.org/search/?mode=search&word=%E5%8E%9F%E4%BD%9C%EF%BC%9A%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E5%AE%9F%E5%8A%9B%E8%87%B3%E4%B8%8A%E4%B8%BB%E7%BE%A9%E3%81%AE%E6%95%99%E5%AE%A4%E3%81%B8",
+        "chars": 231458
+      },
+      {
+        "name": "かぐや様は告らせたい",
+        "url": "https://syosetu.org/search/?mode=search&word=%E5%8E%9F%E4%BD%9C%EF%BC%9A%E3%81%8B%E3%81%90%E3%82%84%E6%A7%98%E3%81%AF%E5%91%8A%E3%82%89%E3%81%9B%E3%81%9F%E3%81%84",
+        "chars": 218585
+      },
+      {
+        "name": "僕のヒーローアカデミア",
+        "url": "https://syosetu.org/search/?mode=search&word=%E5%8E%9F%E4%BD%9C%EF%BC%9A%E5%83%95%E3%81%AE%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%82%A2",
+        "chars": 128282
+      },
+      {
+        "name": "響け！ユーフォニアム",
+        "url": "https://syosetu.org/search/?mode=search&word=%E5%8E%9F%E4%BD%9C%EF%BC%9A%E9%9F%BF%E3%81%91%EF%BC%81%E3%83%A6%E3%83%BC%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%A0",
+        "chars": 126817
+      },
+      {
+        "name": "現代 / スポーツ",
+        "url": "https://syosetu.org/search/?mode=search&word=%E8%88%9E%E5%8F%B0%EF%BC%9A%E7%8F%BE%E4%BB%A3",
+        "chars": 122583
+      },
+      {
+        "name": "ぼっち・ざ・ろっく！",
+        "url": "https://syosetu.org/search/?mode=search&word=%E5%8E%9F%E4%BD%9C%EF%BC%9A%E3%81%BC%E3%81%A3%E3%81%A1%E3%83%BB%E3%81%96%E3%83%BB%E3%82%8D%E3%81%A3%E3%81%8F%EF%BC%81",
+        "chars": 115652
+      },
+      {
+        "name": "ファンタジー / コメディ",
+        "url": "https://syosetu.org/search/?mode=search&word=%E8%88%9E%E5%8F%B0%EF%BC%9A%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC",
+        "chars": 104243
+      },
+      {
+        "name": "BLEACH",
+        "url": "https://syosetu.org/search/?mode=search&word=%E5%8E%9F%E4%BD%9C%EF%BC%9ABLEACH",
+        "chars": 101318
+      },
+      {
+        "name": "呪術廻戦",
+        "url": "https://syosetu.org/search/?mode=search&word=%E5%8E%9F%E4%BD%9C%EF%BC%9A%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6",
+        "chars": 93601
+      },
+      {
+        "name": "葬送のフリーレン",
+        "url": "https://syosetu.org/search/?mode=search&word=%E5%8E%9F%E4%BD%9C%EF%BC%9A%E8%91%AC%E9%80%81%E3%81%AE%E3%83%95%E3%83%AA%E3%83%BC%E3%83%AC%E3%83%B3",
+        "chars": 70954
+      },
+      {
+        "name": "幼女戦記",
+        "url": "https://syosetu.org/search/?mode=search&word=%E5%8E%9F%E4%BD%9C%EF%BC%9A%E5%B9%BC%E5%A5%B3%E6%88%A6%E8%A8%98",
+        "chars": 70446
+      },
+      {
+        "name": "ハリー・ポッター",
+        "url": "https://syosetu.org/search/?mode=search&word=%E5%8E%9F%E4%BD%9C%EF%BC%9A%E3%83%8F%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9D%E3%83%83%E3%82%BF%E3%83%BC",
+        "chars": 56624
+      },
+      {
+        "name": "ゆるキャン△",
+        "url": "https://syosetu.org/search/?mode=search&word=%E5%8E%9F%E4%BD%9C%EF%BC%9A%E3%82%86%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3%E2%96%B3",
+        "chars": 48445
+      },
+      {
+        "name": "現代 / 日常",
+        "url": "https://syosetu.org/search/?mode=search&word=%E8%88%9E%E5%8F%B0%EF%BC%9A%E7%8F%BE%E4%BB%A3",
+        "chars": 47844
+      },
+      {
+        "name": "艦隊これくしょん",
+        "url": "https://syosetu.org/search/?mode=search&word=%E5%8E%9F%E4%BD%9C%EF%BC%9A%E8%89%A6%E9%9A%8A%E3%81%93%E3%82%8C%E3%81%8F%E3%81%97%E3%82%87%E3%82%93",
+        "chars": 37110
+      },
+      {
+        "name": "ダンジョンに出会いを求めるのは間違っているだろうか",
+        "url": "https://syosetu.org/search/?mode=search&word=%E5%8E%9F%E4%BD%9C%EF%BC%9A%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AB%E5%87%BA%E4%BC%9A%E3%81%84%E3%82%92%E6%B1%82%E3%82%81%E3%82%8B%E3%81%AE%E3%81%AF%E9%96%93%E9%81%95%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%A0%E3%82%8D%E3%81%86%E3%81%8B",
+        "chars": 36746
+      },
+      {
+        "name": "リコリス・リコイル",
+        "url": "https://syosetu.org/search/?mode=search&word=%E5%8E%9F%E4%BD%9C%EF%BC%9A%E3%83%AA%E3%82%B3%E3%83%AA%E3%82%B9%E3%83%BB%E3%83%AA%E3%82%B3%E3%82%A4%E3%83%AB",
+        "chars": 32385
+      },
+      {
+        "name": "現代 / コメディ",
+        "url": "https://syosetu.org/search/?mode=search&word=%E8%88%9E%E5%8F%B0%EF%BC%9A%E7%8F%BE%E4%BB%A3",
+        "chars": 28825
+      },
+      {
+        "name": "名探偵コナン",
+        "url": "https://syosetu.org/search/?mode=search&word=%E5%8E%9F%E4%BD%9C%EF%BC%9A%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B3%E3%83%8A%E3%83%B3",
+        "chars": 11363
+      },
+      {
+        "name": "HUNTER×HUNTER",
+        "url": "https://syosetu.org/search/?mode=search&word=%E5%8E%9F%E4%BD%9C%EF%BC%9AHUNTER%C3%97HUNTER",
+        "chars": 10023
+      },
+      {
+        "name": "SLAM DUNK",
+        "url": "https://syosetu.org/search/?mode=search&word=%E5%8E%9F%E4%BD%9C%EF%BC%9ASLAM%20DUNK",
+        "chars": 2462
+      },
+      {
+        "name": "ファンタジー / 戦記",
+        "url": "https://syosetu.org/search/?mode=search&word=%E8%88%9E%E5%8F%B0%EF%BC%9A%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC",
+        "chars": 808
+      },
+      {
+        "name": "ファンタジー / ノンジャンル",
+        "url": "https://syosetu.org/search/?mode=search&word=%E8%88%9E%E5%8F%B0%EF%BC%9A%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC",
+        "chars": 779
+      }
+    ],
+    "titles": [
+      {
+        "title": "バスタード・ソードマン",
+        "url": "https://syosetu.org/novel/292011/",
+        "chars": 568492
+      },
+      {
+        "title": "うちの脳内コンピューターが俺を勝たせようとしてくる",
+        "url": "https://syosetu.org/novel/217969/",
+        "chars": 445863
+      },
+      {
+        "title": "王様をぎゃふん！ と言わせたい",
+        "url": "https://syosetu.org/novel/211850/",
+        "chars": 383723
+      },
+      {
+        "title": "TS転生してまさかのサブヒロインに。",
+        "url": "https://syosetu.org/novel/122722/",
+        "chars": 283291
+      },
+      {
+        "title": "プラチナム・ライフ",
+        "url": "https://syosetu.org/novel/386205/",
+        "chars": 218585
+      },
+      {
+        "title": "貞操逆転世界で普通に生きられると思い込んでる奴（男女比１：５の世界でも普通に生きられると思った？）",
+        "url": "https://syosetu.org/novel/287965/",
+        "chars": 217980
+      },
+      {
+        "title": "ようこそ百合至上主義のハーレムへ",
+        "url": "https://syosetu.org/novel/411395/",
+        "chars": 191346
+      },
+      {
+        "title": "美少女になったら、追放元のPTに甘やかされたんだが",
+        "url": "https://syosetu.org/novel/360664/",
+        "chars": 158928
+      },
+      {
+        "title": "悪役令嬢は百合したい",
+        "url": "https://syosetu.org/novel/173078/",
+        "chars": 148772
+      },
+      {
+        "title": "大海原の祖なる龍",
+        "url": "https://syosetu.org/novel/125450/",
+        "chars": 138769
+      },
+      {
+        "title": "音と共にある人生",
+        "url": "https://syosetu.org/novel/378908/",
+        "chars": 126817
+      },
+      {
+        "title": "9番ピッチャー そこのおまえ",
+        "url": "https://syosetu.org/novel/420855/",
+        "chars": 117295
+      },
+      {
+        "title": "ONE PIECE世界を旅する一般クソザコTSうっかり幼女商人",
+        "url": "https://syosetu.org/novel/298480/",
+        "chars": 117161
+      },
+      {
+        "title": "音楽チートで世に絶望していたTS少女がSIDEROSの強火追っかけになる話",
+        "url": "https://syosetu.org/novel/302134/",
+        "chars": 115652
+      },
+      {
+        "title": "【完結】フラグ折り悪役令嬢〜乙女ゲー主人公の恋愛フラグを折ったら転生悪役令嬢の私と主人公で百合フラグが立った件〜",
+        "url": "https://syosetu.org/novel/363131/",
+        "chars": 114314
+      },
+      {
+        "title": "わたしの百合ハーレムは神様に望まれているらしい",
+        "url": "https://syosetu.org/novel/343231/",
+        "chars": 95783
+      },
+      {
+        "title": "汚いエルフを見つけたので虐待することにした",
+        "url": "https://syosetu.org/novel/334244/",
+        "chars": 70954
+      },
+      {
+        "title": "皇女戦記",
+        "url": "https://syosetu.org/novel/186578/",
+        "chars": 70446
+      },
+      {
+        "title": "畜生道に堕ちたと思ったら五条悟の飼い猫になった件",
+        "url": "https://syosetu.org/novel/424498/",
+        "chars": 64887
+      },
+      {
+        "title": "雛森「シロちゃんに『雛森ィィィィ！』と叫ばせたいだけの人生だった…」",
+        "url": "https://syosetu.org/novel/225642/",
+        "chars": 64241
+      },
+      {
+        "title": "平民、佇まいが優雅すぎて「身分を隠してる皇子では……」と勘違いされてしまう",
+        "url": "https://syosetu.org/novel/426519/",
+        "chars": 64240
+      },
+      {
+        "title": "ワイ「雄英の偏差値高すぎワロタ」",
+        "url": "https://syosetu.org/novel/422814/",
+        "chars": 59626
+      },
+      {
+        "title": "雷神、上鳴電気",
+        "url": "https://syosetu.org/novel/333734/",
+        "chars": 57036
+      },
+      {
+        "title": "〝鬼の女中〟と呼ばれる女",
+        "url": "https://syosetu.org/novel/289652/",
+        "chars": 52789
+      },
+      {
+        "title": "チート転生者 in キャンプ物",
+        "url": "https://syosetu.org/novel/150913/",
+        "chars": 48445
+      },
+      {
+        "title": "貞操逆転世界のメンズエステで働くことになった",
+        "url": "https://syosetu.org/novel/424868/",
+        "chars": 45164
+      },
+      {
+        "title": "悪の組織のライバルキャラ転生〜「お前を倒すのは俺だ」と言いたいだけの男、鬱展開をぶっ壊して愛される〜",
+        "url": "https://syosetu.org/novel/421466/",
+        "chars": 42309
+      },
+      {
+        "title": "汚い艦娘を見つけたので虐待することにした",
+        "url": "https://syosetu.org/novel/128559/",
+        "chars": 37110
+      },
+      {
+        "title": "卍解までは転生者の嗜み。",
+        "url": "https://syosetu.org/novel/425756/",
+        "chars": 35545
+      },
+      {
+        "title": "転生特典がパワプロ風成長だったのでデートして最強になろうと思います",
+        "url": "https://syosetu.org/novel/425430/",
+        "chars": 33796
+      },
+      {
+        "title": "無様屈服ワンちゃんばかりのこの世界で俺は巨乳好き",
+        "url": "https://syosetu.org/novel/253196/",
+        "chars": 28825
+      },
+      {
+        "title": "呪霊廻戦 〜呪霊で教師になります〜",
+        "url": "https://syosetu.org/novel/284841/",
+        "chars": 28714
+      },
+      {
+        "title": "ハリー・ポッターと野望の少女",
+        "url": "https://syosetu.org/novel/16284/",
+        "chars": 23953
+      },
+      {
+        "title": "皆の傷になって死にたい転生者がベルの兄で才禍の怪物なのは間違っている",
+        "url": "https://syosetu.org/novel/284751/",
+        "chars": 23212
+      },
+      {
+        "title": "【コミカライズ連載開始】迷宮狂走曲～ＲＰＧ要素があるエロゲのＲＰＧ部分にドはまりしてエロそっちのけでハクスラするタイプの転生者～",
+        "url": "https://syosetu.org/novel/296652/",
+        "chars": 21109
+      },
+      {
+        "title": "後世の歴史家いわく、俺は面従腹背の成り上がり復讐者らしい",
+        "url": "https://syosetu.org/novel/421227/",
+        "chars": 20416
+      },
+      {
+        "title": "貞操逆転世界を三大欲求強めに生きるだけ",
+        "url": "https://syosetu.org/novel/426487/",
+        "chars": 20081
+      },
+      {
+        "title": "特典が発動する度にトラウマと胃痛が増えるのだが・・・",
+        "url": "https://syosetu.org/novel/296295/",
+        "chars": 19341
+      },
+      {
+        "title": "性癖に正直に生きてたらヤンデレに追いかけられたんだが",
+        "url": "https://syosetu.org/novel/258691/",
+        "chars": 18894
+      },
+      {
+        "title": "百獣と呼ばれぬ男",
+        "url": "https://syosetu.org/novel/317476/",
+        "chars": 18077
+      },
+      {
+        "title": "私は誰でしょう？",
+        "url": "https://syosetu.org/novel/128064/",
+        "chars": 16416
+      },
+      {
+        "title": "【急募】高育のAクラスで快適に過ごす方法",
+        "url": "https://syosetu.org/novel/424713/",
+        "chars": 16018
+      },
+      {
+        "title": "転生したので、欲望の為に突っ走る",
+        "url": "https://syosetu.org/novel/338723/",
+        "chars": 13534
+      },
+      {
+        "title": "行きつけの喫茶店の珈琲が美味",
+        "url": "https://syosetu.org/novel/298148/",
+        "chars": 13044
+      },
+      {
+        "title": "ギターヒーロー",
+        "url": "https://syosetu.org/novel/394071/",
+        "chars": 11620
+      },
+      {
+        "title": "悪魔にノせられてホイホイ転生したら米花町だったんだが",
+        "url": "https://syosetu.org/novel/220421/",
+        "chars": 11363
+      },
+      {
+        "title": "ようこそ超能力者のいる教室へ -1年生編-",
+        "url": "https://syosetu.org/novel/377225/",
+        "chars": 10762
+      },
+      {
+        "title": "どうしてこうなった？",
+        "url": "https://syosetu.org/novel/47715/",
+        "chars": 10023
+      },
+      {
+        "title": "Dクラス「ドッ！ワハハ」 綾小路「wwww」 オリ主「あ、綾小路くんも笑ってるよｗ」 綾小路「」",
+        "url": "https://syosetu.org/novel/424706/",
+        "chars": 9528
+      },
+      {
+        "title": "ハリー・ポッターと合理主義の方法",
+        "url": "https://syosetu.org/novel/160391/",
+        "chars": 9351
+      },
+      {
+        "title": "とある黒猫になった男の後悔日誌",
+        "url": "https://syosetu.org/novel/299559/",
+        "chars": 8582
+      },
+      {
+        "title": "拝命、闇の魔術に対する防衛術 ※期間は別途",
+        "url": "https://syosetu.org/novel/425358/",
+        "chars": 6904
+      },
+      {
+        "title": "甲子園優勝投手村田、ドラ1で燕へ",
+        "url": "https://syosetu.org/novel/424393/",
+        "chars": 5288
+      },
+      {
+        "title": "ようこそ世界一の探偵がいる教室へ",
+        "url": "https://syosetu.org/novel/420018/",
+        "chars": 3804
+      },
+      {
+        "title": "性転少女は憧れのヒロインに手を伸ばす",
+        "url": "https://syosetu.org/novel/376899/",
+        "chars": 2680
+      },
+      {
+        "title": "藤真のバスケ",
+        "url": "https://syosetu.org/novel/370309/",
+        "chars": 2462
+      },
+      {
+        "title": "転生者『虚飾の魔女』（なお中身）",
+        "url": "https://syosetu.org/novel/393045/",
+        "chars": 1532
+      },
+      {
+        "title": "古代魔術師の第二の人生（修正版）",
+        "url": "https://syosetu.org/novel/18606/",
+        "chars": 808
+      },
+      {
+        "title": "埋没殿のサイレントリッチ",
+        "url": "https://syosetu.org/novel/230257/",
+        "chars": 779
+      }
+    ],
+    "daily": [
+      {
+        "date": "2026-09-30",
+        "works": 2,
+        "episodes": 94,
+        "chars": 301869
+      },
+      {
+        "date": "2026-09-29",
+        "works": 6,
+        "episodes": 42,
+        "chars": 211356
+      },
+      {
+        "date": "2026-09-28",
+        "works": 3,
+        "episodes": 57,
+        "chars": 337419
+      },
+      {
+        "date": "2026-09-27",
+        "works": 6,
+        "episodes": 57,
+        "chars": 247392
+      },
+      {
+        "date": "2026-09-26",
+        "works": 4,
+        "episodes": 63,
+        "chars": 262971
+      },
+      {
+        "date": "2026-09-25",
+        "works": 4,
+        "episodes": 34,
+        "chars": 185918
+      },
+      {
+        "date": "2026-09-24",
+        "works": 7,
+        "episodes": 52,
+        "chars": 228813
+      },
+      {
+        "date": "2026-09-23",
+        "works": 5,
+        "episodes": 60,
+        "chars": 210247
+      },
+      {
+        "date": "2026-09-22",
+        "works": 3,
+        "episodes": 69,
+        "chars": 213236
+      },
+      {
+        "date": "2026-09-21",
+        "works": 1,
+        "episodes": 50,
+        "chars": 129263
+      },
+      {
+        "date": "2026-09-20",
+        "works": 1,
+        "episodes": 29,
+        "chars": 76039
+      },
+      {
+        "date": "2026-09-19",
+        "works": 1,
+        "episodes": 8,
+        "chars": 18783
+      },
+      {
+        "date": "2026-09-18",
+        "works": 3,
+        "episodes": 44,
+        "chars": 135145
+      },
+      {
+        "date": "2026-09-17",
+        "works": 0,
+        "episodes": 0,
+        "chars": 0
+      },
+      {
+        "date": "2026-09-16",
+        "works": 0,
+        "episodes": 0,
+        "chars": 0
+      },
+      {
+        "date": "2026-09-15",
+        "works": 0,
+        "episodes": 0,
+        "chars": 0
+      },
+      {
+        "date": "2026-09-14",
+        "works": 0,
+        "episodes": 0,
+        "chars": 0
+      },
+      {
+        "date": "2026-09-13",
+        "works": 0,
+        "episodes": 0,
+        "chars": 0
+      },
+      {
+        "date": "2026-09-12",
+        "works": 0,
+        "episodes": 0,
+        "chars": 0
+      },
+      {
+        "date": "2026-09-11",
+        "works": 1,
+        "episodes": 2,
+        "chars": 367
+      },
+      {
+        "date": "2026-09-10",
+        "works": 6,
+        "episodes": 41,
+        "chars": 122357
+      },
+      {
+        "date": "2026-09-09",
+        "works": 5,
+        "episodes": 53,
+        "chars": 135348
+      },
+      {
+        "date": "2026-09-08",
+        "works": 3,
+        "episodes": 47,
+        "chars": 213485
+      },
+      {
+        "date": "2026-09-07",
+        "works": 4,
+        "episodes": 44,
+        "chars": 157645
+      },
+      {
+        "date": "2026-09-06",
+        "works": 4,
+        "episodes": 74,
+        "chars": 227077
+      },
+      {
+        "date": "2026-09-05",
+        "works": 5,
+        "episodes": 80,
+        "chars": 384218
+      },
+      {
+        "date": "2026-09-04",
+        "works": 4,
+        "episodes": 30,
+        "chars": 134317
+      },
+      {
+        "date": "2026-09-03",
+        "works": 4,
+        "episodes": 64,
+        "chars": 246857
+      },
+      {
+        "date": "2026-09-02",
+        "works": 1,
+        "episodes": 71,
+        "chars": 280355
+      },
+      {
+        "date": "2026-09-01",
+        "works": 1,
+        "episodes": 29,
+        "chars": 106002
+      }
+    ]
   }
 ]
